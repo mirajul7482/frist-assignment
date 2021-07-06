@@ -9,6 +9,9 @@ h1{
     color: #575757;
    
 }
+h2{
+    color: #575757; 
+}
 .skip{
     color: #FB8D47;
 }
@@ -29,6 +32,7 @@ h1{
     background-image: linear-gradient(to right, #FC8F49, #FE4B2F);
     border-radius: 50px;
     color: white;
+    font-weight: bold;
 }
 .half-width img{
     width: 60%;
@@ -44,4 +48,11 @@ h1{
 .para{
     margin: 10% 20% 0 10%;
 }
+.centerunit{
+    text-align: center;
+    width: 600px;
+    margin: 5% 20% 5% 30%;
+    color: #828282;
+}
+
 
