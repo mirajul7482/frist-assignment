@@ -95,4 +95,22 @@ footer{
 .count p{
     color: #828282;
 }
+.from{
+    text-align: center;
+    font-size: 20px;
+    box-shadow: 10px 10px 40px gray;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    margin-top: 50px;
+}
+.from input{
+    font-size: 20px;
+}
+#fm{
+    display: inline-block;
+    
+}
+.from a{
+    text-decoration: none;
+}
 
