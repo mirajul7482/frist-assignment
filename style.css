@@ -3,6 +3,47 @@ body{
     font-family: 'Poppins', sans-serif;
 
 }
+.navber{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background: #F2F2F2;
+}
+.menu{
+    flex: 1;
+    text-align: right;
+
+}
+.menu ul{
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+}
+.menu ul li{
+  display: inline-block;  
+  margin-left: 20px;
+  font-size: 20px;
+    
+    
+    
+}
+.menu ul li :hover {
+    text-decoration:none ;
+}
+a{
+    text-decoration: none;
+    color: #FB8D47;
+}
+.logo img{
+    display: flex;
+    float: left;
+    width: 125px !important;
+    height: 40px;
+}
+.navber{
+    padding-left: 50px;
+    padding-right: 50px !important;
+}
 h1{
     font-size: 50px;
     font-weight: 700;
